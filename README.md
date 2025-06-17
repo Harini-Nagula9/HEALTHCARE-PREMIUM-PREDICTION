@@ -17,6 +17,7 @@ The **Healthcare Premium Prediction** project utilizes **XGBoost** for predictin
 ```bash
 git clone <repository-url>
 cd healthcare-premium-prediction
+```
 Install Dependencies
 pip install -r requirements.txt
 
