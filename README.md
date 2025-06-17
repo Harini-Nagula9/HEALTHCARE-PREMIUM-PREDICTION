@@ -1,3 +1,4 @@
+![healthcare premium prediction](https://github.com/user-attachments/assets/7a4536af-c80b-49c4-a1c7-da981fa7bb6b)
 # Healthcare Premium Prediction
 
 ## Overview
