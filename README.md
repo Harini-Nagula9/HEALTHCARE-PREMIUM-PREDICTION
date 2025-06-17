@@ -1,6 +1,8 @@
 ![healthcare premium prediction](https://github.com/user-attachments/assets/7a4536af-c80b-49c4-a1c7-da981fa7bb6b)
 # Healthcare Premium Prediction
 
+Try Live App here: https://healthcare-premium-prediction-by-harini.streamlit.app/
+
 ## Overview
 The **Healthcare Premium Prediction** project utilizes **XGBoost** for predicting health insurance costs based on user input and provides an interactive **Streamlit** frontend for ease of use. Users can enter details such as age, dependents, income, genetical risk, employment status, and more to obtain an estimated insurance premium.
 
