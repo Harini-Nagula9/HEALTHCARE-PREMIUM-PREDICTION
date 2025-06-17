@@ -15,7 +15,7 @@ The **Healthcare Premium Prediction** project utilizes **XGBoost** for predictin
 ## Installation & Usage
 ### Clone the Repository
 ```bash
-git clone <repository-url>
+git clone (https://github.com/Harini-Nagula9/HEALTHCARE-PREMIUM-PREDICTION.git)
 cd healthcare-premium-prediction
 ```
 Install Dependencies
